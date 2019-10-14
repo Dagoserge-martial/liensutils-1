@@ -1,6 +1,15 @@
 # liensutils
 # creer une cerriver linux sur windows 10 et installer kali lunux unbutu et debian
 
+## Librairie python
+https://pymotw.com/3/
+
+## Tout developpemet ressource github *
+https://github.com/sindresorhus/awesome
+
+## Toute les Commende (linux, mocos et windows)
+https://github.com/trimstray/the-book-of-secret-knowledge
+
 ## deploi django
 
 https://www.digitalocean.com/community/tutorials/how-to-serve-django-applications-with-apache-and-mod_wsgi-on-ubuntu-16-04
