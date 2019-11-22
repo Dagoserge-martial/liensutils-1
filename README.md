@@ -4,6 +4,10 @@
 ## Librairie python
 https://pymotw.com/3/
 
+## Modiffier admin Django (ajoue de graph et ....) *
+https://findwork.dev/blog/adding-charts-to-django-admin/
+
+
 ## Tout developpemet ressource github *
 https://github.com/sindresorhus/awesome
 
