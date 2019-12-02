@@ -1,6 +1,8 @@
 # liensutils
 # creer une cerriver linux sur windows 10 et installer kali lunux unbutu et debian
 
+##Data science resource  mathematique
+https://medium.com/@davidventuri/i-dropped-out-of-school-to-create-my-own-data-science-master-s-here-s-my-curriculum-1b400dcee412
 ## Librairie python
 https://pymotw.com/3/
 
